@@ -1,4 +1,4 @@
-# 🔥 BIG BANG Generator
+# BIG BANG Generator
 
 There was a tale when two prime numbers (3 and 5) collided, and a BIGBANG occurred.
 
@@ -8,7 +8,7 @@ This script models that tale by generating an array from 1 to 100:
 - "BIGBANG" for numbers divisible by both 3 and 5
 - Otherwise, the number itself
 
-## 🧪 Output
+## Output
 Saves the array to `output.json`.
 
 Example:
